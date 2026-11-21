@@ -1,0 +1,15 @@
+﻿{
+  "type": "gametechbcs_spellbooks:key_loot",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "forge:loot_table_id",
+          "loot_table_id": "irons_spellbooks:chests/catacombs/hidden_trough_treasure"
+        }
+      ]
+    }
+  ],
+  "key": "gametechbcs_spellbooks:chests/additional_catacombs_loot"
+}

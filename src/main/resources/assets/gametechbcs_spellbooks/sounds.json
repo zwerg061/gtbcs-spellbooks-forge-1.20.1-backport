@@ -1,0 +1,154 @@
+{
+  "aerial_collapse": {
+    "subtitle": "subtitles.aerial_collapse",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:aerial_collapse"
+      }
+    ]
+  },
+  "spectral_blink": {
+    "subtitle": "subtitles.spectral_blink",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:spectral_blink"
+      }
+    ]
+  },
+  "spectral_blink_charge": {
+    "subtitle": "subtitles.spectral_blink_charge",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:spectral_blink_charge"
+      }
+    ]
+  },
+  "spectral_blink_success": {
+    "subtitle": "subtitles.spectral_blink_success",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:spectral_blink_success"
+      }
+    ]
+  },
+  "nullflare": {
+    "subtitle": "subtitles.nullflare",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:nullflare"
+      }
+    ]
+  },
+  "nullflare_two": {
+    "subtitle": "subtitles.nullflare",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:nullflare_two"
+      }
+    ]
+  },
+  "reversal": {
+    "subtitle": "subtitles.reversal",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:reversal"
+      }
+    ]
+  },
+  "reversal_trigger": {
+    "subtitle": "subtitles.reversal_trigger",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:reversal_trigger"
+      }
+    ]
+  },
+  "refined_revenant_breath": {
+    "subtitle": "subtitles.refined_revenant_breath",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:refined_revenant_breath"
+      }
+    ]
+  },
+  "banish_cast": {
+    "subtitle": "subtitles.banish_cast",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:banish_cast"
+      }
+    ]
+  },
+  "banish_charge": {
+    "subtitle": "subtitles.banish_charge",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:banish_charge"
+      }
+    ]
+  },
+  "displacement": {
+    "subtitle": "subtitles.displacement",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:displacement"
+      }
+    ]
+  },
+  "flames_reborn_reappear": {
+    "subtitle": "subtitles.flames_reborn_reappear",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:flames_reborn_reappear"
+      }
+    ]
+  },
+  "flames_reborn_revive": {
+    "subtitle": "subtitles.flames_reborn_revive",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:flames_reborn_revive"
+      }
+    ]
+  },
+  "shatterpoint_cast": {
+    "subtitle": "subtitles.shatterpoint_cast",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:shatterpoint_cast"
+      }
+    ]
+  },
+  "ensnare_prepare": {
+    "subtitle": "subtitles.ensnare_prepare",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:ensnare_prepare"
+      }
+    ]
+  },
+  "ensnare_trigger": {
+    "subtitle": "subtitles.ensnare_trigger",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:ensnare_trigger"
+      }
+    ]
+  },
+  "orbital_void_pulse": {
+    "subtitle": "subtitles.orbital_void_pulse",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:orbital_void_pulse"
+      }
+    ]
+  },
+  "acid_rain_active": {
+    "subtitle": "subtitles.acid_rain_active",
+    "sounds": [
+      {
+        "name": "gametechbcs_spellbooks:acid_rain_active"
+      }
+    ]
+  }
+}

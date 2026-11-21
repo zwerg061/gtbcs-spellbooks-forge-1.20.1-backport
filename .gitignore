@@ -1,0 +1,38 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# Private/local backport workspace artifacts
+_source/
+_decompiled/
+_decompiled-src/
+_mdk/
+_spelllib-src/
+_spelllib-1201-src/
+_irons-1201-src/
+run-data/
+.mixin.out/
+*.log
+src/generated/

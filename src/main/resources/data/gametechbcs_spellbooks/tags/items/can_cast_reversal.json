@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:swords",
+    "minecraft:diamond_sword",
+    "minecraft:iron_sword",
+    "minecraft:wooden_sword",
+    "minecraft:stone_sword",
+    "minecraft:golden_sword",
+    "minecraft:netherite_sword",
+    "irons_spellbooks:magehunter",
+    "irons_spellbooks:keeper_flamberge",
+    "irons_spellbooks:spellbreaker",
+    "irons_spellbooks:amethyst_rapier"
+  ]
+}

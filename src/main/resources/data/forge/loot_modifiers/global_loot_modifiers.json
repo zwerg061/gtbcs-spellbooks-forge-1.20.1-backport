@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "entries": [
+    "gametechbcs_spellbooks:chest/catacombs_modifier",
+    "gametechbcs_spellbooks:chest/ancient_city_modifier"
+  ]
+}

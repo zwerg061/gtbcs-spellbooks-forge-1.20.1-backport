@@ -1,0 +1,31 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ABA",
+    "EFG",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "B": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "F": {
+      "item": "minecraft:enchanted_book"
+    },
+    "E": {
+      "item": "irons_spellbooks:nature_rune"
+    },
+    "G": {
+      "item": "irons_spellbooks:holy_rune"
+    }
+  },
+  "result": {
+    "item": "gametechbcs_spellbooks:gtbcs_magical_repository",
+    "count": 1
+  },
+  "show_notification": true
+}

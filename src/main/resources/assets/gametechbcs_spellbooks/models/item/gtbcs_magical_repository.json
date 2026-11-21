@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "neoforge:separate_transforms",
+  "base": {
+    "parent": "gametechbcs_spellbooks:item/spellbook/gtbcs_magical_repository_model"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "gametechbcs_spellbooks:item/gtbcs_magical_repository"
+      }
+    },
+    "head": {
+      "parent": "gametechbcs_spellbooks:item/spellbook/gtbcs_magical_repository_model_open"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ender_dragon",
+    "irons_spellbooks:dead_king",
+    "gametechbcs_spellbooks:hard_dead_king"
+  ]
+}

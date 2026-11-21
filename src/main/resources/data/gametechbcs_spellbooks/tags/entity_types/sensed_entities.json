@@ -1,0 +1,22 @@
+{
+  "__comment": "Entities in this tag has pin pointed location on Astral Sense",
+  "replace": false,
+  "values": [
+    {
+      "id": "cataclysm:flame_jet",
+      "required": false
+    },
+    {
+      "id": "cataclysm:void_rune",
+      "required": false
+    },
+    {
+      "id": "cataclysm:phantom_halberd",
+      "required": false
+    },
+    {
+      "id": "cataclysm:cm_falling_block",
+      "required": false
+    }
+  ]
+}
